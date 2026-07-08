@@ -128,3 +128,10 @@ flux reconcile source git flux-system -n flux-system
 flux reconcile kustomization apps -n jupyterhub --with-source
 flux reconcile helmrelease jupyterhub -n jupyterhub --force
 ```
+
+To check whether packages correctly installed on Kubernetes pod:
+
+```bash
+kubectl -n jupyterhub exec "$POD" -c notebook -- \
+python --version
+```
