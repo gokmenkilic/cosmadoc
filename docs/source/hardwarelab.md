@@ -4,6 +4,12 @@ The [HPC Hardware Laboratory @Durham](https://durham.readthedocs.io/en/latest/ha
 It is hosted within, yet independent of the [COSMA HPC facility](https://cosma.readthedocs.io) and receives funding from Durham University, industry partners, UKRI (e.g. through [ExCALIBUR](https://excalibur.ac.uk/)) and [DiRAC](https://dirac.ac.uk/).
 Many of the systems tested are readily available for benchmarking.  Details of available nodes and GPUs can be found [here](hardwarelabsummary.md).
 
+## Adding equipment
+
+If you are a vendor, integrator or hardware developer, and would like to have your hardware added to the HPC Hardware Lab, please contact cosma-support@durham.ac.uk
+
+## Access
+
 To request access to any of the systems within the hardware lab, please [create an account](account.md) and request to join the corresponding [project code](project.md#hpc-hardware-lab-access).  Please contact cosma-support@durham.ac.uk when you request an account so that it can be set up correctly.
 
 The Hardware Lab features the following systems and technologies:  
